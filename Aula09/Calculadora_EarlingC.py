@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Calculadora mínima de Erlang C (P(wait)) em M/M/c — com FÓRMULAS.
+Calculadora mínima de Erlang C (P(wait)) em M/M/c 
 
 Símbolos e fórmulas (todas no contexto M/M/c):
 - λ (lambda): taxa de chegadas (clientes por unidade de tempo)
